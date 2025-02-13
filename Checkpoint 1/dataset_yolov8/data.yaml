@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Ball', 'Player', 'Referee']
+
+roboflow:
+  workspace: football-jazjg
+  project: object-detection-in-football
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/football-jazjg/object-detection-in-football/dataset/1

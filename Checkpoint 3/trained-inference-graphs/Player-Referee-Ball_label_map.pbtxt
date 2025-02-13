@@ -1,0 +1,15 @@
+item {
+    name: "Ball",
+    id: 1,
+    display_name: "Ball"
+}
+item {
+    name: "Player",
+    id: 2,
+    display_name: "Player"
+}
+item {
+    name: "Referee",
+    id: 3,
+    display_name: "Referee"
+}
