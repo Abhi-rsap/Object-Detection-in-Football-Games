@@ -1,4 +1,4 @@
-# PitchAware: Object Detection in Football Games
+# PitchAware: Object Detection in Soccer Games
 This project aims to perform object detection using different SOTA models:
 1) Yolov8
 2) Mobilenet SSD
